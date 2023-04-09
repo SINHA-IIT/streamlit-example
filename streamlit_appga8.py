@@ -1,4 +1,3 @@
-!pip install streamlit
 import streamlit as st
 
 def find_largest_number(n1, n2, n3):
